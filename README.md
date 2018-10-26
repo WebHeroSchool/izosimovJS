@@ -342,4 +342,4 @@ if(2 + 2 === 4) return 'nicely done';
 WebHero
 &#x1F538;
 
-![workHard](https://cs8.pikabu.ru/post_img/2017/03/06/6/1488792846146085519.gif)
+![workHard](https://cs8.pikabu.ru/post_img/2017/03/06/6/1488792846146085519.gif "Lol")
